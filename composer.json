@@ -1,0 +1,19 @@
+{
+    "name": "garethdaine/agent-rules",
+    "description": "AgentOps curated AI agent rules — cursor rules, .mdc files, and coding standards bundled as git submodules.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {},
+    "require": {},
+    "extra": {
+        "agentops": {
+            "type": "rules",
+            "submodules": [
+                "vendor/ivangrynenko/cursorrules",
+                "vendor/PatrickJS/awesome-cursorrules",
+                "vendor/Van-LLM-Crew/cursor-secure-coding",
+                "vendor/pekral/cursor-rules"
+            ]
+        }
+    }
+}
