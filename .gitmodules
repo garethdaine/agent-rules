@@ -1,0 +1,12 @@
+[submodule "vendor/ivangrynenko/cursorrules"]
+	path = vendor/ivangrynenko/cursorrules
+	url = https://github.com/ivangrynenko/cursorrules
+[submodule "vendor/PatrickJS/awesome-cursorrules"]
+	path = vendor/PatrickJS/awesome-cursorrules
+	url = https://github.com/PatrickJS/awesome-cursorrules
+[submodule "vendor/Van-LLM-Crew/cursor-secure-coding"]
+	path = vendor/Van-LLM-Crew/cursor-secure-coding
+	url = https://github.com/Van-LLM-Crew/cursor-secure-coding
+[submodule "vendor/pekral/cursor-rules"]
+	path = vendor/pekral/cursor-rules
+	url = https://github.com/pekral/cursor-rules

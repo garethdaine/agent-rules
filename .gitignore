@@ -1,4 +1,5 @@
 .DS_Store
 *.swp
 *.swo
-vendor/
+vendor/autoload.php
+vendor/composer/
